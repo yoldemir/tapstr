@@ -2636,8 +2636,8 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #ee3e0d;
-  border-color: #e23a0d;
+  background-color: #e14e64;
+  border-color: #e14e64;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
@@ -10444,7 +10444,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-white-50 {
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: rgba(255, 255, 255, 0.75) !important;
 }
 
 .text-hide {
@@ -10563,7 +10563,7 @@ html {
 }
 
 .text-white-75 {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.9);
 }
 
 hr.divider {
